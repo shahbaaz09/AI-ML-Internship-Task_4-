@@ -1,7 +1,7 @@
 # AI-ML-Internship-Task_4-
 # Logistic Regression - Breast Cancer Classification
 
-This project is part of my AI & ML internship task, where I built a binary classification model using **Logistic Regression** to predict whether a tumor is malignant or benign using the **Breast Cancer Wisconsin (Diagnostic)** dataset.
+This project is part of my AI & ML internship by Elevate Labs, where I built a binary classification model using **Logistic Regression** to predict whether a tumor is malignant or benign using the **Breast Cancer Wisconsin (Diagnostic)** dataset.
 
 ---
 
